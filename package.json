@@ -1,0 +1,25 @@
+{
+  "name": "graphql-loader",
+  "version": "0.1.0",
+  "description": "A GraphQL loader for Webpack 2",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbu110/graphql-loader.git"
+  },
+  "keywords": [
+    "graphql",
+    "webpack",
+    "loader"
+  ],
+  "author": "Victor Barbu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barbu110/graphql-loader/issues"
+  },
+  "homepage": "https://github.com/barbu110/graphql-loader#readme",
+  "peerDependencies": {
+    "graphql": "0.10.x",
+    "graphql-tag": "2.x.x"
+  }
+}
