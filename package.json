@@ -1,5 +1,5 @@
 {
-  "name": "graphql-loader",
+  "name": "graphql-webpack-loader",
   "version": "0.1.0",
   "description": "A GraphQL loader for Webpack 2",
   "main": "src/index.js",
